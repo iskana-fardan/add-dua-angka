@@ -1,5 +1,5 @@
 {
-  "name": "@iskana-fardan/add-dua-angka",
+  "name": "add-dua-angka-iskana-fardan",
   "version": "1.0.0",
   "description": "Fungsi sederhana untuk menjumlahkan dua angka",
   "main": "index.js",
