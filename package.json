@@ -1,0 +1,11 @@
+{
+  "name": "@iskana-fardan/add-dua-angka",
+  "version": "1.0.0",
+  "description": "Fungsi sederhana untuk menjumlahkan dua angka",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": ["add", "math", "npm"],
+  "author": "raka pratama",
+  "license": "MIT"
+}
+
